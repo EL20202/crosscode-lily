@@ -1,0 +1,16 @@
+{
+    "id": "lily",
+	"version": "0.0.1",
+
+	"title": "Lily",
+	"description": "Allows you to add a certain hexacast to your party.",
+    "prestart": "mod.js",
+	
+    "icons": {
+        "24": "icon.png"
+    },
+
+	"dependencies": {
+        "crosscode": ">=1.4.0"
+	}
+}

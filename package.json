@@ -1,0 +1,9 @@
+{
+	"name": "lily",
+	"version": "0.0.1",
+	"description": "Allows you to add a certain hexacast to your party.",
+	"prestart": "mod.js",
+	"ccmodDependencies": {
+		"crosscode": ">=1.4.0"
+	}
+}
